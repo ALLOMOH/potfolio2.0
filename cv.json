@@ -1,8 +1,9 @@
 {
   "analyticsCode": "",
   "basics": {
-    "name": "ALLOMOH",
-    "label": " Fullstack Developer Web and mobile",
+    "name": "saurakDev",
+    "title": "saurakDev-potfolio",
+    "label": "Fullstack Developer Web and mobile",
     "animated_main_label": "Fullstack",
     "animated_secondary_initial_label": "Developer",
     "animated_secondary_final_label": "Fullstack ",
@@ -44,7 +45,7 @@
         "icon": "ri:star-line",
         "color": "#FBBC05",
         "username": "Star on GitHub",
-        "url": "https://github.com/Anmol-TheDev/potfolio2.0"
+        "url": "https://github.com/ALLOMOH/potfolio2.0"
       }
     ]
   },
@@ -187,18 +188,6 @@
       "keywords": ["Web Development", "Frontend", "Static Generation"]
     },
     {
-      "name": "Go-lang",
-      "icon": "simple-icons:go",
-      "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "Static Generation"]
-    },
-    {
-      "name": "Gin",
-      "icon": "simple-icons:gin",
-      "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "Static Generation"]
-    },
-    {
       "name": "Node",
       "icon": "ri:nodejs-line",
       "level": "Intermediate",
@@ -241,12 +230,6 @@
       "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
-      "name": "AWS",
-      "icon": "simple-icons:amazonaws",
-      "level": "Beginner",
-      "keywords": ["Cloud Computing", "Backend", "Infrastructure"]
-    },
-    {
       "name": "Docker",
       "icon": "mdi:docker",
       "level": "Intermediate",
@@ -271,10 +254,47 @@
       "keywords": ["API", "Documentation", "Web Development", "Backend"]
     },
     {
+      "name":"Prisma",
+      "icon":"simple-icons:prisma",
+      "level":"Intermediate",
+      "keywords":["Database ORM","Backend","Database Management"]
+    }
+    ,
+    {
       "name": "Postman",
       "icon": "simple-icons:postman",
       "level": "Intermediate",
       "keywords": ["API", "Testing", "Web Development", "Backend"]
+    },
+    {
+      "name":"Laravel 12",
+      "icon":"simple-icons:laravel",
+      "level":"Intermediate",
+      "keywords":["Web Development","Backend","PHP Framework"]
+    },
+    {
+      "name":"PHP",
+      "icon":"ri:php-line",
+      "level":"Intermediate",
+      "keywords":["Web Development","Backend","Programming Language"]
+    },
+    {
+      "name":"WebFlow",
+      "icon":"simple-icons:webflow",
+      "level":"Intermediate",
+      "keywords":["Web Development","Frontend","No-Code Platform"]
+    },
+    {
+      "name":"Figma",
+      "icon":"simple-icons:figma",
+      "level":"Intermediate",
+      "keywords":["UI/UX Design","Prototyping","Design Tool"]
+    },
+    {
+      "name":"Framer",
+      "icon":"simple-icons:framer",
+      "level":"Intermediate",
+      "keywords":["UI/UX Design","Prototyping","Design Tool"]
     }
   ],
   "languages": [
