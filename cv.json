@@ -1,21 +1,21 @@
 {
   "analyticsCode": "",
   "basics": {
-    "name": "Anmol Singh",
-    "label": "Software Developer",
-    "animated_main_label": "developer",
-    "animated_secondary_initial_label": "software",
-    "animated_secondary_final_label": "fullstack",
-    "image": "/pfp.jpg",
-    "email": "anmolsingh51200@gmail.com",
+    "name": "ALLOMOH",
+    "label": " Fullstack Developer Web and mobile",
+    "animated_main_label": "Fullstack",
+    "animated_secondary_initial_label": "Developer",
+    "animated_secondary_final_label": "Fullstack ",
+    "image": "/pfp.png",
+    "email": "allomohangealex@gmail.com",
     "url": "https://anmol.pro",
     "summary": "Full Stack developer with experience building and deploying production-ready web apps in freelance teams. Delivered two client websites and worked closely with teams to create scalable, maintainable solutions.",
     "theme": "platinum",
     "location": {
-      "address": "Panipat",
-      "city": "Haryana",
-      "countryCode": "IN",
-      "region": "India"
+      "address": "Marcory Sans fil",
+      "city": "Abidjan",
+      "countryCode": "CI",
+      "region": "Côte d'ivoire"
     },
     "profiles": [
       {
@@ -23,14 +23,14 @@
         "icon": "ri:twitter-fill",
         "color": "#1DA1F2",
         "username": "@anmolthedev",
-        "url": "https://x.com/anmolthedev"
+        "url": "https://x.com/AngeAllomoh"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
         "color": "#929AAB",
         "username": "Anmol-TheDev",
-        "url": "https://github.com/Anmol-TheDev"
+        "url": "https://github.com/ALLOMOH"
       },
       {
         "network": "Email",
@@ -50,11 +50,11 @@
   },
   "work": [
     {
-      "name": "Advika Innovate",
+      "name": "ItExperts4africa",
       "position": "Frontend Developer",
-      "location_type": "Remote",
-      "location": "IN",
-      "url": "https://advikainnovate.com/",
+      "location_type": "Presiential",
+      "location": "Ci",
+      "url": "https://itexperts4africa.com/",
       "startDate": "2025-07-01",
       "endDate": null,
       "summary": "Contributing to a centralized ecommerce platform to manage multiple ecommerce stores from a single interface, including order and inventory management.",
@@ -279,12 +279,12 @@
   ],
   "languages": [
     {
-      "language": "Hindi",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Intermediate"
+      "fluency": "basic"
     }
   ],
   "projects": [
@@ -304,28 +304,28 @@
       },
       "url": "https://pixelsaffron.in"
     },
-{
-  "name": "ParticleFX",
-  "isActive": true,
-  "description": "A zero-dependency JavaScript library to create interactive particle effects from images using canvas. Easily works with React, Vue, or plain HTML. Customize animations, physics, and user interactions.",
-  "highlights": [
-    "🖼️ Turn Images into Particles",
-    "🌀 Hover & Click Effects",
-    "🎨 Custom Shapes & Filters",
-    "⚙️ Configurable Physics",
-    "📱 Responsive Design",
-    "📸 Export as PNG",
-    "📦 TypeScript Ready",
-    "✨ Works Without Any Framework"
-  ],
-  "stack": {
-    "JavaScript": "simple-icons:javascript",
-    "TypeScript": "simple-icons:typescript",
-    "CanvasAPI": "mdi:draw",
-    "HTML5": "simple-icons:html5"
-  },
-  "url": "https://particlefx.anmol.pro"
-},
+    {
+      "name": "ParticleFX",
+      "isActive": true,
+      "description": "A zero-dependency JavaScript library to create interactive particle effects from images using canvas. Easily works with React, Vue, or plain HTML. Customize animations, physics, and user interactions.",
+      "highlights": [
+        "🖼️ Turn Images into Particles",
+        "🌀 Hover & Click Effects",
+        "🎨 Custom Shapes & Filters",
+        "⚙️ Configurable Physics",
+        "📱 Responsive Design",
+        "📸 Export as PNG",
+        "📦 TypeScript Ready",
+        "✨ Works Without Any Framework"
+      ],
+      "stack": {
+        "JavaScript": "simple-icons:javascript",
+        "TypeScript": "simple-icons:typescript",
+        "CanvasAPI": "mdi:draw",
+        "HTML5": "simple-icons:html5"
+      },
+      "url": "https://particlefx.anmol.pro"
+    },
     {
       "name": "Social Media WebApp",
       "isActive": false,
