@@ -1,15 +1,15 @@
 {
   "analyticsCode": "",
   "basics": {
-    "name": "saurakDev",
-    "title": "saurakDev-potfolio",
+    "name": "saurakiDev",
+    "title": "saurakiDev-potfolio",
     "label": "Fullstack Developer Web and mobile",
     "animated_main_label": "Fullstack",
     "animated_secondary_initial_label": "Developer",
     "animated_secondary_final_label": "Fullstack ",
     "image": "/pfp.png",
     "email": "allomohangealex@gmail.com",
-    "url": "https://anmol.pro",
+    "url": "saurakidev.ci",
     "summary": "Full Stack developer with experience building and deploying production-ready web apps in freelance teams. Delivered two client websites and worked closely with teams to create scalable, maintainable solutions.",
     "theme": "platinum",
     "location": {
@@ -21,10 +21,10 @@
     "profiles": [
       {
         "network": "X / Twitter",
-        "icon": "ri:twitter-fill",
-        "color": "#1DA1F2",
+        "icon": "simple-icons:x",
+        "color": "#EDEDED",
         "username": "@anmolthedev",
-        "url": "https://x.com/AngeAllomoh"
+        "url": "https://x.com/AngeAllomo"
       },
       {
         "network": "GitHub",
@@ -37,8 +37,8 @@
         "network": "Email",
         "icon": "ri:mail-fill",
         "color": "#D44638",
-        "username": "anmolsingh",
-        "url": "mailto:anmolsingh51200@gmail.com"
+        "username": "allomoh",
+        "url": "mailto:allomohangealex@gmail.com"
       },
       {
         "network": "GitHub Stars",
@@ -46,77 +46,110 @@
         "color": "#FBBC05",
         "username": "Star on GitHub",
         "url": "https://github.com/ALLOMOH/potfolio2.0"
+      },
+      {
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "color": "#0A66C2",
+        "username": "Anmol Singh",
+        "url": "https://www.linkedin.com/in/ange-allomoh/"
+      },
+      {
+        "network": "Youtube",
+        "icon": "mdi:youtube",
+        "color": "#FF0000",
+        "username": "SaurkiDev",
+        "url": "https://www.youtube.com/@saurakiDev"
       }
     ]
   },
   "work": [
     {
       "name": "ItExperts4africa",
-      "position": "Frontend Developer",
+      "position": "Full-Stack Developer",
       "location_type": "Presiential",
       "location": "Ci",
       "url": "https://itexperts4africa.com/",
-      "startDate": "2025-07-01",
+      "startDate": "2025-07-03",
       "endDate": null,
-      "summary": "Contributing to a centralized ecommerce platform to manage multiple ecommerce stores from a single interface, including order and inventory management.",
+      "summary": "Internship as a web developer at ItExperts4africa, contributing to the design and development of multiple websites, including showcase websites, using modern frontend technologies.",
       "responsibilities": [
-        "Developing and maintaining the frontend of a centralized ecommerce platform.",
-        "Implementing features for order management, inventory control, and other ecommerce functionalities.",
-        "Collaborating with the team to create a scalable and user-friendly platform."
+        "Responsible for the design and development of public websites and internal web applications.",
+        "Developed two complete websites and multiple showcase (vitrine) websites using modern frontend technologies.",
+        "Designed and implemented internal applications for company needs (confidential projects).",
+        "Built responsive, performant, and maintainable user interfaces using Astro.js.",
+        "Participated in real-world data projects, including the development of ETL workflows.",
+        "Integrated content and structured web pages according to functional and technical requirements.",
+        "Collaborated with team members to ensure code quality, consistency, and best practices.",
+        "Used Git and GitHub for version control, collaboration, and project tracking."
       ],
+
       "skills": {
-        "React": "simple-icons:react",
-        "MUI": "simple-icons:mui",
-        "React Hook Form": "simple-icons:reacthookform",
-        "React Query": "simple-icons:reactquery",
-        "Zod": "simple-icons:zod",
-        "TypeScript": "simple-icons:typescript",
+        "Astro.js": "simple-icons:astro",
+        "HTML5": "ri:html5-fill",
         "CSS3": "ri:css3-fill",
+        "JavaScript": "simple-icons:javascript",
         "Git": "mdi:git",
-        "GitHub": "mdi:github"
+        "GitHub": "mdi:github",
+        "Figma": "simple-icons:figma",
+        "laravel 12": "simple-icons:laravel"
       }
     },
     {
-      "name": "PixelSaffron",
-      "position": "Full-Stack Developer",
-      "location_type": "Remote",
-      "location": "IN",
-      "url": "https://pixelsaffron.in/",
-      "startDate": "2024-10-03",
-      "endDate": "2025-06-30",
-      "summary": "Led front-end development for a full-stack eCommerce platform built for a Mumbai-based clothing brand. Implemented core features like order management, secure payment integration, and responsive UI for seamless user experience.",
+      "name": "Genius Groups",
+      "position": "Web & Mobile Application Developer Intern",
+      "location_type": "On-site",
+      "location": "Abidjan, Côte d'Ivoire",
+      "url": "https://genius.ci",
+      "startDate": "2024-07-29",
+      "endDate": "2025-05-29",
+      "summary": "Internship in web and mobile application development, contributing to real-world projects including a production website and internal applications. Actively involved in frontend development, application design, and collaborative team projects.",
 
       "responsibilities": [
-        "Built and maintained both front-end and back-end components of a production-ready eCommerce web app using modern web technologies.",
-        "Focused on building scalable, responsive, and maintainable front-end features, ensuring high performance and usability.",
-        "Integrated payment gateways and developed order management features to support real-time order processing.",
-        "Collaborated with clients and team members to align technical solutions with business needs.",
-        "Ensured clean, modular code and implemented best practices for performance optimization and maintainability.",
-        "Developed and connected RESTful APIs to handle key business logic and data flow between client and server."
+        "Developed and maintained web and mobile application features as part of real-world projects.",
+        "Contributed to the development of the production website groupnefertiti.com during the internship.",
+        "Designed and implemented frontend components for web applications following project requirements.",
+        "Participated in the development of internal applications and tools (confidential projects).",
+        "Collaborated with team members to deliver functional and maintainable application features.",
+        "Applied best practices in code organization, performance, and usability.",
+        "Assisted in integrating application logic and ensuring proper data flow between components."
       ],
 
       "skills": {
-        "Go": "simple-icons:go",
-        "Gin": "simple-icons:gin",
         "HTML5": "simple-icons:html5",
         "CSS3": "ri:css3-fill",
-        "Tailwind": "mdi:tailwind",
-        "Bootstrap": "simple-icons:bootstrap",
-        "JavaScript ": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Next-Js": "simple-icons:nextdotjs",
-        "React": "simple-icons:react",
-        "NodeJS": "ri:nodejs-line",
-
-        "Bruno": "simple-icons:bruno",
-        "Redux": "simple-icons:redux",
+        "JavaScript": "simple-icons:javascript",
+        "React js": "simple-icons:react",
+        "laravel 12": "simple-icons:laravel",
         "Git": "mdi:git",
-        "GitHub": "mdi:github"
+        "GitHub": "mdi:github",
+        "flutter": "simple-icons:flutter"
       }
     }
   ],
-  "education": [],
-  "certificates": [],
+  "education": [
+    {
+      "institution": "International University of Science and Technology",
+      "area": "Web and Mobile Application Development",
+      "studyType": "Professional Bachelor's Degree",
+      "startDate": "2021",
+      "endDate": "2024",
+      "location": "Abidjan, Côte d'Ivoire",
+      "description": "Focused on web and mobile application development, including academic projects in frontend, backend, databases, and mobile application development."
+    },
+    {
+      "institution": "Institut Foebel",
+      "area": "Scientific Studies",
+      "studyType": "Scientific Baccalaureate (BAC D)",
+      "startDate": "2020",
+      "endDate": "2021",
+      "location": "Abidjan, Côte d'Ivoire",
+      "description": "Scientific background with foundations in mathematics, logic, and analytical thinking."
+    }
+  ],
+  "certificates": [
+    
+  ],
   "skills": [
     {
       "name": "HTML",
@@ -254,12 +287,11 @@
       "keywords": ["API", "Documentation", "Web Development", "Backend"]
     },
     {
-      "name":"Prisma",
-      "icon":"simple-icons:prisma",
-      "level":"Intermediate",
-      "keywords":["Database ORM","Backend","Database Management"]
-    }
-    ,
+      "name": "Prisma",
+      "icon": "simple-icons:prisma",
+      "level": "Intermediate",
+      "keywords": ["Database ORM", "Backend", "Database Management"]
+    },
     {
       "name": "Postman",
       "icon": "simple-icons:postman",
@@ -267,34 +299,34 @@
       "keywords": ["API", "Testing", "Web Development", "Backend"]
     },
     {
-      "name":"Laravel 12",
-      "icon":"simple-icons:laravel",
-      "level":"Intermediate",
-      "keywords":["Web Development","Backend","PHP Framework"]
+      "name": "Laravel 12",
+      "icon": "simple-icons:laravel",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "PHP Framework"]
     },
     {
-      "name":"PHP",
-      "icon":"ri:php-line",
-      "level":"Intermediate",
-      "keywords":["Web Development","Backend","Programming Language"]
+      "name": "PHP",
+      "icon": "ri:php-line",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "Programming Language"]
     },
     {
-      "name":"WebFlow",
-      "icon":"simple-icons:webflow",
-      "level":"Intermediate",
-      "keywords":["Web Development","Frontend","No-Code Platform"]
+      "name": "WebFlow",
+      "icon": "simple-icons:webflow",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "No-Code Platform"]
     },
     {
-      "name":"Figma",
-      "icon":"simple-icons:figma",
-      "level":"Intermediate",
-      "keywords":["UI/UX Design","Prototyping","Design Tool"]
+      "name": "Figma",
+      "icon": "simple-icons:figma",
+      "level": "Intermediate",
+      "keywords": ["UI/UX Design", "Prototyping", "Design Tool"]
     },
     {
-      "name":"Framer",
-      "icon":"simple-icons:framer",
-      "level":"Intermediate",
-      "keywords":["UI/UX Design","Prototyping","Design Tool"]
+      "name": "Framer",
+      "icon": "simple-icons:framer",
+      "level": "Intermediate",
+      "keywords": ["UI/UX Design", "Prototyping", "Design Tool"]
     }
   ],
   "languages": [
