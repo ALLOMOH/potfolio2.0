@@ -233,12 +233,6 @@
       "keywords": ["Package Manager", "Web Development", "Frontend", "Backend"]
     },
     {
-      "name": "Java",
-      "icon": "ri:java-line",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Backend"]
-    },
-    {
       "name": "MongoDB",
       "icon": "simple-icons:mongodb",
       "level": "Beginner",
@@ -269,22 +263,10 @@
       "keywords": ["Virtual Environments", "Backend"]
     },
     {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Beginner",
-      "keywords": ["Scripting", "Automation"]
-    },
-    {
       "name": "Linux",
       "icon": "simple-icons:linux",
       "level": "Intermediate",
       "keywords": ["OS", "Scripting", "Automation"]
-    },
-    {
-      "name": "Swagger",
-      "icon": "simple-icons:swagger",
-      "level": "Beginner",
-      "keywords": ["API", "Documentation", "Web Development", "Backend"]
     },
     {
       "name": "Prisma",
@@ -327,6 +309,12 @@
       "icon": "simple-icons:framer",
       "level": "Intermediate",
       "keywords": ["UI/UX Design", "Prototyping", "Design Tool"]
+    },
+    {
+      "name": "Python",
+      "icon": "mdi:language-python",
+      "level": "Intermediate",
+      "keywords":["Python","Programming Language","software dev"]
     }
   ],
   "languages": [
