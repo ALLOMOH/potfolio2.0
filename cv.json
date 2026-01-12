@@ -151,17 +151,23 @@
   ],
 
   "certificates": [
-
+    {
+      "title":"Html",
+      "issuer": "Formation online / Mimo",
+      "description": "Introduction au HTML5",
+      "year": "2023",
+      "url":"/cert/certificate-html.pdf"
+    },
     {
       "title": "SQL",
-      "issuer": "Formation académique / Université",
+      "issuer": "Formation online / Mimo",
       "description": "Requêtes SQL, gestion des bases de données relationnelles, manipulation et organisation des données.",
       "year": "2023",
       "url":"/cert/certificate-sql.pdf"
     },
     {
       "title": "PHP",
-      "issuer": "Formation académique / Université",
+      "issuer": "Formation online / Sololearn",
       "description": "Développement backend avec PHP : logique serveur, formulaires, interactions avec bases de données.",
       "year": "2023",
       "url":"/cert/d0106f1a-1d78-4408-b7dd-1379146c7d22.png"
@@ -440,8 +446,7 @@
       ],
       "stack": {
         "Node.js": "ri:nodejs-line",
-        "Express": "simple-icons:express",
-        "MongoDB": "simple-icons:mongodb"
+        "Express": "simple-icons:express"
       },
       "url": "https://taskflow-jhvw.onrender.com/"
     }
