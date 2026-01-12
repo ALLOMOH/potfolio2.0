@@ -6,10 +6,11 @@ import Experience from "@/components/sections/Experience.astro";
 import Hero from "@/components/sections/Hero.astro";
 import Projects from "@/components/sections/Projects.astro";
 import Skills from "@/components/sections/Skills.astro";
+import Education from "@/components/sections/Education.astro";
 import KeyboardManager from "@/components/KeyboardManager.astro";
 import ThemeSwitch from "@/components/ThemeSwitch.astro";
 import NeovimButton from "../components/neovim/Button.astro";
-import ParticuleComponent from "@/components/Animation/ParticuleComponent.jsx";
+
 import { basics } from "@cv";
 ---
 
@@ -28,15 +29,16 @@ import { basics } from "@cv";
     <div
       class="slide-enter-content space-y-12 md:col-span-4 print:grid print:grid-cols-5 print:grid-flow-row print:gap-2 print:space-y-0"
     >
-      <Experience className="print:col-span-3" />
-      {
-        (
-          <>
+    <Experience className="print:col-span-3" />
+    {
+      (
+        <>
             <Projects className="print:hidden" />
             <Skills className="print:col-span-full" />
           </>
         )
       }
+      <Education className="print:col-span-2" />
     </div>
   </main>
   <KeyboardManager />

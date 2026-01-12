@@ -9,7 +9,7 @@ import { certificates } from '@cv'
   <ul class='space-y-4 py-3 print:space-y-0'>
     {
       education.map(
-        ({ institution, startDate, endDate, area, url }: { institution: string; startDate: string; endDate: string; area: string; url: string }) => {
+        ({ institution, startDate, endDate, area, url, description, location,  }: { institution: string; startDate: string; endDate: string; area: string; url: string ; description: string; location: string}) => {
           const startYear = new Date(startDate).getFullYear()
           const endYear =
             endDate != null ? new Date(endDate).getFullYear() : 'Actual'
@@ -45,6 +45,8 @@ import { certificates } from '@cv'
                 <time data-ccursor="lift" class='right-0 top-0 text-xs text-skin-muted md:absolute md:block sm:hover:text-skin-hue'>
                   {years}
                 </time>
+                <div class='text-sm text-skin-muted'>{location}</div>
+                <div class='text-sm text-skin-muted'>{description}</div>
               </div>
             </li>
           )
@@ -56,8 +58,8 @@ import { certificates } from '@cv'
     certificates.length > 0 && (
       <Section className={Astro.props.className} title='Certificates'>
         <ul class='space-y-4 py-3 print:space-y-0'>
-          {certificates.map(({ name, date, issuer, url }: { name: string; date: string; issuer: string; url: string }) => {
-            const certificateYear = new Date(date).getFullYear()
+          {certificates.map(({ title, year, issuer, url, description }: { title: string; year: string; issuer: string; url: string; description: string }) => {
+            const certificateYear = year
             return (
               <li class='flex items-baseline'>
                 <svg
@@ -82,7 +84,7 @@ import { certificates } from '@cv'
                       class='group flex items-center gap-[6px] text-skin-base decoration-dotted underline-offset-[5px] hover:text-skin-hue hover:underline transition-all sm:hover:cursor-none w-max'
                       href={url || null}
                       target='_blank'>
-                      {name}
+                      {title}
                     </a>
                   </h3>
                   <div class='text-sm text-skin-muted'>{issuer}</div>

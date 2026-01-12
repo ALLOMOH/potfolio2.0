@@ -135,7 +135,8 @@
       "startDate": "2021",
       "endDate": "2024",
       "location": "Abidjan, Côte d'Ivoire",
-      "description": "Focused on web and mobile application development, including academic projects in frontend, backend, databases, and mobile application development."
+      "description": "Focused on web and mobile application development, including academic projects in frontend, backend, databases, and mobile application development.",
+      "url":"https://uist.ci"
     },
     {
       "institution": "Institut Foebel",
@@ -144,212 +145,227 @@
       "startDate": "2020",
       "endDate": "2021",
       "location": "Abidjan, Côte d'Ivoire",
-      "description": "Scientific background with foundations in mathematics, logic, and analytical thinking."
+      "description": "Scientific background with foundations in mathematics, logic, and analytical thinking.",
+      "url":"https://institutfroebel.com/"
     }
   ],
 
   "certificates": [
 
     {
-      "title": "Linux Essentials",
-      "issuer": "Cisco Networking Academy",
-      "description": "Bases du système Linux : ligne de commande, gestion des fichiers, utilisateurs et permissions.",
-      "year": "2022"
-    },
-    {
-      "title": "Introduction to Linux",
-      "issuer": "Cisco Networking Academy",
-      "description": "Découverte de l’architecture Linux et des concepts fondamentaux des systèmes d’exploitation.",
-      "year": "2022"
-    },
-    {
-      "title": "Get Connected",
-      "issuer": "Cisco Networking Academy",
-      "description": "Introduction aux réseaux, à la connectivité Internet et aux bonnes pratiques numériques.",
-      "year": "2021"
-    },
-    {
       "title": "SQL",
       "issuer": "Formation académique / Université",
       "description": "Requêtes SQL, gestion des bases de données relationnelles, manipulation et organisation des données.",
-      "year": "2023"
+      "year": "2023",
+      "url":"/cert/certificate-sql.pdf"
     },
     {
       "title": "PHP",
       "issuer": "Formation académique / Université",
       "description": "Développement backend avec PHP : logique serveur, formulaires, interactions avec bases de données.",
-      "year": "2023"
+      "year": "2023",
+      "url":"/cert/d0106f1a-1d78-4408-b7dd-1379146c7d22.png"
+    },
+    {
+      "title": "Linux Essentials",
+      "issuer": "Cisco Networking Academy",
+      "description": "Bases du système Linux : ligne de commande, gestion des fichiers, utilisateurs et permissions.",
+      "year": "2022",
+      "url":"/cert/Partner-_NDG_Linux_Essentials_certificate_allomohangealex-gmail-com_26e2883f-f33c-4744-8ef6-8221e9b777ca.pdf"
+    },
+    {
+      "title": "Introduction to Linux",
+      "issuer": "Cisco Networking Academy",
+      "description": "Découverte de l’architecture Linux et des concepts fondamentaux des systèmes d’exploitation.",
+      "year": "2022",
+      "url":"/cert/Partner-_NDG_Linux_Unhatched_certificate_allomohangealex-gmail-com_368af1d2-aa7d-4c1b-94cc-5d2612ecbdc6.pdf"
+    },
+    {
+      "title": "Get Connected",
+      "issuer": "Cisco Networking Academy",
+      "description": "Introduction aux réseaux, à la connectivité Internet et aux bonnes pratiques numériques.",
+      "year": "2021",
+      "url":"/cert/Get_Connected_certificate_allomohangealex-gmail-com_0e096766-c2f0-4c8a-8c56-9141e36c6d29.pdf"
     }
-
   ],
 
-  "skills": [
+ "skills": [
     {
       "name": "HTML",
       "icon": "simple-icons:html5",
       "level": "Advanced",
-      "keywords": ["Web Development", "Frontend"]
+      "keywords": ["Web Development", "Frontend"],
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
     },
     {
       "name": "CSS",
       "icon": "ri:css3-fill",
       "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+      "keywords": ["Web Development", "Frontend", "Responsive Design"],
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
     },
     {
       "name": "Tailwind",
       "icon": "mdi:tailwind",
       "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
+      "keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"],
+      "url": ""
     },
     {
       "name": "Bootstrap",
       "icon": "simple-icons:bootstrap",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
+      "keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"],
+      "url": ""
     },
     {
       "name": "JavaScript",
       "icon": "simple-icons:javascript",
       "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"],
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     },
     {
       "name": "TypeScript",
       "icon": "simple-icons:typescript",
       "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "keywords": ["Web Development", "Frontend", "Backend", "JavaScript Superset"],
+      "url": "https://www.typescriptlang.org/docs/"
     },
     {
       "name": "Next-Js",
       "icon": "simple-icons:nextdotjs",
       "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
+      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"],
+      "url": "https://nextjs.org/docs"
     },
     {
       "name": "Astro",
       "icon": "simple-icons:astro",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
+      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"],
+      "url": ""
     },
     {
       "name": "React",
       "icon": "simple-icons:react",
       "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "Static Generation"]
+      "keywords": ["Web Development", "Frontend", "Static Generation"],
+      "url": "https://react.dev/learn"
     },
     {
       "name": "Node",
       "icon": "ri:nodejs-line",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"],
+      "url": "https://nodejs.org/en/docs/"
     },
     {
       "name": "PNPM",
       "icon": "simple-icons:pnpm",
       "level": "Beginner",
-      "keywords": ["Package Manager", "Web Development", "Frontend", "Backend"]
+      "keywords": ["Package Manager", "Web Development", "Frontend", "Backend"],
+      "url": ""
     },
     {
       "name": "MongoDB",
       "icon": "simple-icons:mongodb",
       "level": "Beginner",
-      "keywords": ["Databases", "File", "Data Storage", "Backend"]
+      "keywords": ["Databases", "File", "Data Storage", "Backend"],
+      "url": "https://www.mongodb.com/docs/"
     },
     {
       "name": "PostgreSQL",
       "icon": "simple-icons:postgresql",
       "level": "Intermediate",
-      "keywords": ["Backend", "Databases", "SQL", "Relational Database"]
+      "keywords": ["Backend", "Databases", "SQL", "Relational Database"],
+      "url": "https://www.postgresql.org/docs/"
     },
     {
       "name": "Git",
       "icon": "mdi:git",
       "level": "Advanced",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
+      "keywords": ["Version Control", "Collaboration", "Source Code"],
+      "url": "https://git-scm.com/doc"
     },
     {
       "name": "GitHub",
       "icon": "mdi:github",
       "level": "Advanced",
-      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"],
+      "url": ""
     },
     {
       "name": "Docker",
       "icon": "mdi:docker",
       "level": "Intermediate",
-      "keywords": ["Virtual Environments", "Backend"]
+      "keywords": ["Virtual Environments", "Backend"],
+      "url": "https://docs.docker.com/"
     },
     {
       "name": "Linux",
       "icon": "simple-icons:linux",
       "level": "Intermediate",
-      "keywords": ["OS", "Scripting", "Automation"]
+      "keywords": ["OS", "Scripting", "Automation"],
+      "url": ""
     },
     {
       "name": "Prisma",
       "icon": "simple-icons:prisma",
       "level": "Intermediate",
-      "keywords": ["Database ORM", "Backend", "Database Management"]
+      "keywords": ["Database ORM", "Backend", "Database Management"],
+      "url": ""
     },
     {
       "name": "Postman",
       "icon": "simple-icons:postman",
       "level": "Intermediate",
-      "keywords": ["API", "Testing", "Web Development", "Backend"]
+      "keywords": ["API", "Testing", "Web Development", "Backend"],
+      "url": ""
     },
     {
       "name": "Laravel 12",
       "icon": "simple-icons:laravel",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "PHP Framework"]
+      "keywords": ["Web Development", "Backend", "PHP Framework"],
+      "url": "https://laravel.com/docs/12.x"
     },
     {
       "name": "PHP",
       "icon": "ri:php-line",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "Programming Language"]
+      "keywords": ["Web Development", "Backend", "Programming Language"],
+      "url": "https://www.php.net/docs.php"
     },
     {
       "name": "WebFlow",
       "icon": "simple-icons:webflow",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "No-Code Platform"]
+      "keywords": ["Web Development", "Frontend", "No-Code Platform"],
+      "url": ""
     },
     {
       "name": "Figma",
       "icon": "simple-icons:figma",
       "level": "Intermediate",
-      "keywords": ["UI/UX Design", "Prototyping", "Design Tool"]
+      "keywords": ["UI/UX Design", "Prototyping", "Design Tool"],
+      "url": ""
     },
     {
       "name": "Framer",
       "icon": "simple-icons:framer",
       "level": "Intermediate",
-      "keywords": ["UI/UX Design", "Prototyping", "Design Tool"]
+      "keywords": ["UI/UX Design", "Prototyping", "Design Tool"],
+      "url": ""
     },
     {
       "name": "Python",
       "icon": "mdi:language-python",
       "level": "Intermediate",
-      "keywords": ["Python", "Programming Language", "software dev"]
+      "keywords": ["Python", "Programming Language", "software dev"],
+      "url": "https://docs.python.org/"
     }
-  ],
+],
   "languages": [
     {
       "language": "French",
@@ -361,22 +377,6 @@
     }
   ],
   "projects": [
-    {
-      "name": "pixelsaffron",
-      "isActive": true,
-      "description": "A landing page for a startup with beautiful design and smooth animations.",
-      "highlights": [
-        "GSAP animations",
-        "Beautiful design",
-        "Smooth animations"
-      ],
-      "stack": {
-        "Vue": "simple-icons:vuedotjs",
-        "GSAP": "simple-icons:greensock",
-        "Tailwind": "mdi:tailwind"
-      },
-      "url": "https://pixelsaffron.in"
-    },
     {
       "name": "Bakery",
       "isActive": true,
@@ -392,7 +392,8 @@
         "CSS": "simple-icons:css3",
         "JavaScript": "simple-icons:javascript"
       },
-      "url": "https://bakery-delta-five.vercel.app/"
+      "url": "https://bakery-delta-five.vercel.app/",
+      "github": "https://github.com/ALLOMOH/bakery.github.io"
     },
     {
       "name": "Le Gourmet Moderne",
