@@ -10,7 +10,7 @@
     "image": "/pfp.png",
     "email": "allomohangealex@gmail.com",
     "url": "saurakidev.ci",
-    "summary": "Full Stack developer with experience building and deploying production-ready web apps in freelance teams. Delivered two client websites and worked closely with teams to create scalable, maintainable solutions.",
+    "summary": "As a full-stack web developer currently pursuing continuing education, I develop functional web applications using HTML, CSS, JavaScript, Python, and modern frameworks (Laravel, Flutter). I have already completed several concrete projects, including authentication systems, interactive interfaces, and data management. I am reliable, self-sufficient, and curious, and I am seeking an opportunity to grow in a demanding professional environment.Translated with DeepL.com (free version)",
     "theme": "platinum",
     "location": {
       "address": "Marcory Sans fil",
@@ -147,9 +147,42 @@
       "description": "Scientific background with foundations in mathematics, logic, and analytical thinking."
     }
   ],
+  
   "certificates": [
 
+    {
+      "title": "Linux Essentials",
+      "issuer": "Cisco Networking Academy",
+      "description": "Bases du système Linux : ligne de commande, gestion des fichiers, utilisateurs et permissions.",
+      "year": "2022"
+    },
+    {
+      "title": "Introduction to Linux",
+      "issuer": "Cisco Networking Academy",
+      "description": "Découverte de l’architecture Linux et des concepts fondamentaux des systèmes d’exploitation.",
+      "year": "2022"
+    },
+    {
+      "title": "Get Connected",
+      "issuer": "Cisco Networking Academy",
+      "description": "Introduction aux réseaux, à la connectivité Internet et aux bonnes pratiques numériques.",
+      "year": "2021"
+    },
+    {
+      "title": "SQL",
+      "issuer": "Formation académique / Université",
+      "description": "Requêtes SQL, gestion des bases de données relationnelles, manipulation et organisation des données.",
+      "year": "2023"
+    },
+    {
+      "title": "PHP",
+      "issuer": "Formation académique / Université",
+      "description": "Développement backend avec PHP : logique serveur, formulaires, interactions avec bases de données.",
+      "year": "2023"
+    }
+
   ],
+
   "skills": [
     {
       "name": "HTML",
@@ -314,7 +347,7 @@
       "name": "Python",
       "icon": "mdi:language-python",
       "level": "Intermediate",
-      "keywords":["Python","Programming Language","software dev"]
+      "keywords": ["Python", "Programming Language", "software dev"]
     }
   ],
   "languages": [
@@ -345,111 +378,71 @@
       "url": "https://pixelsaffron.in"
     },
     {
-      "name": "ParticleFX",
+      "name": "Bakery",
       "isActive": true,
-      "description": "A zero-dependency JavaScript library to create interactive particle effects from images using canvas. Easily works with React, Vue, or plain HTML. Customize animations, physics, and user interactions.",
+      "description": "Projet frontend réalisé en HTML, CSS et JavaScript vanilla, visant à maîtriser les bases du développement web et la structuration du code.",
       "highlights": [
-        "🖼️ Turn Images into Particles",
-        "🌀 Hover & Click Effects",
-        "🎨 Custom Shapes & Filters",
-        "⚙️ Configurable Physics",
-        "📱 Responsive Design",
-        "📸 Export as PNG",
-        "📦 TypeScript Ready",
-        "✨ Works Without Any Framework"
+        "Structure HTML claire",
+        "Animations fluides",
+        "JavaScript sans framework",
+        "Design responsive"
+      ],
+      "stack": {
+        "HTML": "simple-icons:html5",
+        "CSS": "simple-icons:css3",
+        "JavaScript": "simple-icons:javascript"
+      },
+      "url": "https://bakery-delta-five.vercel.app/"
+    },
+    {
+      "name": "Le Gourmet Moderne",
+      "isActive": true,
+      "description": "Application web de service client assisté par chatbot, intégrant une API Gemini pour répondre automatiquement aux utilisateurs.",
+      "highlights": [
+        "Intégration API Gemini",
+        "Chatbot interactif",
+        "Automatisation du support client",
+        "Interface moderne"
+      ],
+      "stack": {
+        "Server": "mdi:server",
+        "API": "mdi:api",
+        "JavaScript": "simple-icons:javascript"
+      },
+      "url": "https://le-gourmet-moderne.vercel.app/"
+    },
+    {
+      "name": "Portfolio 3D",
+      "isActive": true,
+      "description": "Portfolio personnel interactif en 3D permettant de présenter mes compétences et projets de manière immersive.",
+      "highlights": [
+        "Expérience utilisateur immersive",
+        "Animations 3D",
+        "Présentation claire du profil développeur"
       ],
       "stack": {
         "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "CanvasAPI": "mdi:draw",
-        "HTML5": "simple-icons:html5"
+        "Three.js": "simple-icons:threedotjs",
+        "CSS": "simple-icons:css3"
       },
-      "url": "https://particlefx.anmol.pro"
+      "url": "https://allomohprofolio3d.netlify.app/"
     },
     {
-      "name": "Social Media WebApp",
-      "isActive": false,
-      "description": "A modern social media application designed for real-time interaction and user engagement",
-      "highlights": [
-        "📝 CRUD Posts (Create, Read, Update, Delete)",
-        "💬 Real-time Chat (1:1 and group messaging)",
-        "👥 Follow System to connect with others",
-        "❤️ Like and react to posts",
-        "📞 Group Voice/Video Calling"
-      ],
-
-      "stack": {
-        "Next-Js": "simple-icons:nextdotjs",
-        "Redux": "simple-icons:redux",
-        "PostGres": "simple-icons:postgresql",
-        "Socket.io": "simple-icons:socketdotio",
-        "Go-lang": "simple-icons:go",
-        "Docker": "mdi:docker"
-      }
-    },
-    {
-      "name": "Notbasic",
+      "name": "TaskFlow",
       "isActive": true,
-      "description": "An easy-to-use online store where you can browse, shop, and pay securely. It also has a simple admin panel to manage products and track orders smoothly.",
+      "description": "Application web de gestion de tâches permettant aux utilisateurs d’organiser, suivre et gérer leurs activités quotidiennes.",
       "highlights": [
-        "🛒 Cart Management",
-        "📦 Order Management",
-        "🚚 Delivery Tracking",
-        "👛 Wallet Integration",
-        "💳 Secure Payment Gateway",
-        "🧾 Invoice & Billing",
-        "🛍️ Product Browsing & Filtering",
-        "📊 Admin Dashboard"
+        "CRUD des tâches",
+        "Gestion des états",
+        "Interface simple et efficace",
+        "Logique backend fonctionnelle"
       ],
       "stack": {
-        "Next-Js": "simple-icons:nextdotjs",
-        "Redux": "simple-icons:redux",
-        "TypeScript": "simple-icons:typescript",
-        "NodeJS": "ri:nodejs-line",
-        "Mongodb": "simple-icons:mongodb"
+        "Node.js": "ri:nodejs-line",
+        "Express": "simple-icons:express",
+        "MongoDB": "simple-icons:mongodb"
       },
-      "url": "https://notbasic.in/"
-    },
-    {
-      "name": "Music WebApp",
-      "isActive": true,
-      "description": "A fun and smooth music streaming app where users can discover, play, and enjoy their favorite songs anytime. It features playlists, search, and seamless audio playback for a great listening experience.",
-      "highlights": [
-        "🔥 Firebase Integration",
-        "🔐 User Authentication",
-        "🎵 Playlist Management",
-        "🔍 Song Search"
-      ],
-
-      "stack": {
-        "React": "simple-icons:react",
-        "tailwind": "mdi:tailwind",
-        "Rest-Api": "mdi:api"
-      },
-      "github": "https://github.com/ALLOMOH/Music_app.git",
-      "url": "https://music.anmol.pro"
-    },
-    {
-      "name": "Stone-Su-man",
-      "isActive": true,
-      "description": "An online shop for selling unique hand-painted stone art, where customers can easily browse, order, and enjoy one-of-a-kind creations.",
-      "highlights": [
-        "🎨 Showcase Hand-Painted Stone Art",
-        "🛒 Easy Product Browsing & Cart",
-        "💳 Secure Online Payments",
-        "📦 Order & Delivery Tracking",
-        "📸 High-Quality Artwork Images",
-        "📱 Mobile-Friendly Design"
-      ],
-      "stack": {
-        "React": "simple-icons:react",
-        "TypeScript": "simple-icons:typescript",
-        "tailwind": "mdi:tailwind",
-        "Vite": "simple-icons:vite",
-        "PNPM": "simple-icons:pnpm",
-        "Hostinger": "simple-icons:hostinger"
-      },
-      "url": "https://stone-su-man.com/"
+      "url": "https://taskflow-jhvw.onrender.com/"
     }
   ]
 }
