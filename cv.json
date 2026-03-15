@@ -1,5 +1,6 @@
 {
   "analyticsCode": "",
+
   "basics": {
     "name": "saurakiDev",
     "title": "saurakiDev-potfolio",
@@ -10,7 +11,7 @@
     "image": "/pfp.jpeg",
     "email": "allomohangealex@gmail.com",
     "url": "saurakidev.ci",
-    "summary": "As a full-stack web developer, I develop functional web applications using HTML, CSS, JavaScript, Python, and modern frameworks (Laravel, Flutter). I have already completed several concrete projects, including authentication systems, interactive interfaces, and data management. I am reliable, self-sufficient, and curious, and I am seeking an opportunity to grow in a demanding professional environment.Translated with DeepL.com (free version)",
+    "summary": "As a full-stack web developer, I develop functional web applications using HTML, CSS, JavaScript, Python, and modern frameworks (Laravel, Flutter). I have already completed several concrete projects, including authentication systems, interactive interfaces, and data management. I am reliable, self-sufficient, and curious, and I am seeking an opportunity to grow in a demanding professional environment.",
     "theme": "platinum",
     "location": {
       "address": "Marcory Sans fil",
@@ -63,6 +64,7 @@
       }
     ]
   },
+
   "work": [
     {
       "name": "ItExperts4africa",
@@ -127,6 +129,7 @@
       }
     }
   ],
+
   "education": [
     {
       "institution": "International University of Science and Technology",
@@ -195,7 +198,13 @@
     }
   ],
 
- "skills": [
+  "cv":[{
+    "name":"Cv",
+    "icon":"simple-icons:readdotcv",
+    "url":"https://www.canva.com/design/DAF2xMhax6k/7tC6-WA_RxmFHPfLoO2hrw/view?utm_content=DAF2xMhax6k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h82aff04745"
+  }],
+
+  "skills": [
     {
       "name": "HTML",
       "icon": "simple-icons:html5",
@@ -348,21 +357,21 @@
       "icon": "simple-icons:webflow",
       "level": "Intermediate",
       "keywords": ["Web Development", "Frontend", "No-Code Platform"],
-      "url": ""
+      "url": "https://webflow.com"
     },
     {
       "name": "Figma",
       "icon": "simple-icons:figma",
       "level": "Intermediate",
       "keywords": ["UI/UX Design", "Prototyping", "Design Tool"],
-      "url": ""
+      "url": "https://www.figma.com/"
     },
     {
       "name": "Framer",
       "icon": "simple-icons:framer",
       "level": "Intermediate",
       "keywords": ["UI/UX Design", "Prototyping", "Design Tool"],
-      "url": ""
+      "url": "https://www.framer.com/"
     },
     {
       "name": "Python",
@@ -371,7 +380,8 @@
       "keywords": ["Python", "Programming Language", "software dev"],
       "url": "https://docs.python.org/"
     }
-],
+  ],
+
   "languages": [
     {
       "language": "French",
@@ -382,73 +392,75 @@
       "fluency": "basic"
     }
   ],
-  "projects": [
-    {
-      "name": "Bakery",
-      "isActive": true,
-      "description": "Projet frontend réalisé en HTML, CSS et JavaScript vanilla, visant à maîtriser les bases du développement web et la structuration du code.",
-      "highlights": [
-        "Structure HTML claire",
-        "Animations fluides",
-        "JavaScript sans framework",
-        "Design responsive"
-      ],
-      "stack": {
-        "HTML": "simple-icons:html5",
-        "CSS": "simple-icons:css3",
-        "JavaScript": "simple-icons:javascript"
-      },
-      "url": "https://bakery-delta-five.vercel.app/",
-      "github": "https://github.com/ALLOMOH/bakery.github.io"
+
+ "projects": [
+  {
+    "name": "Bakery",
+    "isActive": true,
+    "description": "Frontend project built with HTML, CSS, and vanilla JavaScript to master the fundamentals of web development and proper code structure.",
+    "highlights": [
+      "Clean and well-structured HTML",
+      "Smooth animations",
+      "JavaScript without frameworks",
+      "Responsive design"
+    ],
+    "stack": {
+      "HTML": "simple-icons:html5",
+      "CSS": "simple-icons:css3",
+      "JavaScript": "simple-icons:javascript"
     },
-    {
-      "name": "Le Gourmet Moderne",
-      "isActive": true,
-      "description": "Application web de service client assisté par chatbot, intégrant une API Gemini pour répondre automatiquement aux utilisateurs.",
-      "highlights": [
-        "Intégration API Gemini",
-        "Chatbot interactif",
-        "Automatisation du support client",
-        "Interface moderne"
-      ],
-      "stack": {
-        "Server": "mdi:server",
-        "API": "mdi:api",
-        "JavaScript": "simple-icons:javascript"
-      },
-      "url": "https://le-gourmet-moderne.vercel.app/"
+    "url": "https://bakery-delta-five.vercel.app/",
+    "github": "https://github.com/ALLOMOH/bakery.github.io"
+  },
+  {
+    "name": "Le Gourmet Moderne",
+    "isActive": true,
+    "description": "Customer support web application powered by a chatbot integrating the Gemini API to automatically respond to users.",
+    "highlights": [
+      "Gemini API integration",
+      "Interactive chatbot",
+      "Customer support automation",
+      "Modern interface"
+    ],
+    "stack": {
+      "Server": "mdi:server",
+      "API": "mdi:api",
+      "JavaScript": "simple-icons:javascript"
     },
-    {
-      "name": "Portfolio 3D",
-      "isActive": true,
-      "description": "Portfolio personnel interactif en 3D permettant de présenter mes compétences et projets de manière immersive.",
-      "highlights": [
-        "Expérience utilisateur immersive",
-        "Animations 3D",
-        "Présentation claire du profil développeur"
-      ],
-      "stack": {
-        "JavaScript": "simple-icons:javascript",
-        "Three.js": "simple-icons:threedotjs",
-        "CSS": "simple-icons:css3"
-      },
-      "url": "https://allomohprofolio3d.netlify.app/"
+    "url": "https://le-gourmet-moderne.vercel.app/"
+  },
+  {
+    "name": "Portfolio 3D",
+    "isActive": true,
+    "description": "Interactive 3D personal portfolio designed to present my skills and projects in an immersive way.",
+    "highlights": [
+      "Immersive user experience",
+      "3D animations",
+      "Clear presentation of the developer profile"
+    ],
+    "stack": {
+      "JavaScript": "simple-icons:javascript",
+      "Three.js": "simple-icons:threedotjs",
+      "CSS": "simple-icons:css3"
     },
-    {
-      "name": "TaskFlow",
-      "isActive": true,
-      "description": "Application web de gestion de tâches permettant aux utilisateurs d’organiser, suivre et gérer leurs activités quotidiennes.",
-      "highlights": [
-        "CRUD des tâches",
-        "Gestion des états",
-        "Interface simple et efficace",
-        "Logique backend fonctionnelle"
-      ],
-      "stack": {
-        "Node.js": "ri:nodejs-line",
-        "Express": "simple-icons:express"
-      },
-      "url": "https://taskflow-jhvw.onrender.com/"
-    }
-  ]
+    "url": "https://allomohprofolio3d.netlify.app/"
+  },
+  {
+    "name": "TaskFlow",
+    "isActive": true,
+    "description": "Task management web application that allows users to organize, track, and manage their daily activities.",
+    "highlights": [
+      "Full task CRUD functionality",
+      "Task status management",
+      "Simple and efficient interface",
+      "Functional backend logic"
+    ],
+    "stack": {
+      "Node.js": "ri:nodejs-line",
+      "Express": "simple-icons:express"
+    },
+    "url": "https://taskflow-jhvw.onrender.com/"
+  }
+]
+
 }
